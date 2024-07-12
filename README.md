@@ -15,7 +15,7 @@ consistency of storage of data in database.
 To run this news portal follow these steps,
 
 ```
-$ https://github.com/FaheemBhatti/News-Protal.git
+
 $ cd News-Protal
 $ sudo docker-compose up -d
 ```
